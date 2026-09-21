@@ -1,0 +1,26 @@
+#Celling-detach_1244_42.obj
+
+v 47 1 0
+v 47 1 3
+v 51 1 3
+v 51 1 -4
+v 47 1 -4
+
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+
+vt 0 4
+vt 0 7
+vt 4 7
+vt 4 0
+vt 0 0
+
+g Celling-detach_1244_42
+usemtl Celling-detach_1244_42
+usemap Celling-detach_1244_42
+f 1/1/1 3/3/3 2/2/2
+f 1/1/1 4/4/4 3/3/3
+f 5/5/5 4/4/4 1/1/1

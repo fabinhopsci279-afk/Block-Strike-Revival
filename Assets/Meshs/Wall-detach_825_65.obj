@@ -1,0 +1,22 @@
+#Wall-detach_825_65.obj
+
+v -18 3 4
+v -25 3 10
+v -18 3 10
+v -25 3 4
+
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+
+vt 7 0
+vt 0 6
+vt 7 6
+vt 0 0
+
+g Wall-detach_825_65
+usemtl Wall-detach_825_65
+usemap Wall-detach_825_65
+f 1/1/1 3/3/3 2/2/2
+f 1/1/1 2/2/2 4/4/4

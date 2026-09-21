@@ -1,0 +1,22 @@
+#Window_964_68.obj
+
+v 0 0 0
+v 0 1 0
+v 0 0 1
+v 0 1 1
+
+vn -1 0 0
+vn -1 0 0
+vn -1 0 0
+vn -1 0 0
+
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+
+g Window_964_68
+usemtl Window_964_68
+usemap Window_964_68
+f 1/1/1 3/3/3 2/2/2
+f 2/2/2 3/3/3 4/4/4

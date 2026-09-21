@@ -1,0 +1,22 @@
+#Lava_Trap_741_32.obj
+
+v 4 0 -7
+v 4 0 1
+v -8 0 -7
+v -8 0 1
+
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+
+vt 0 0
+vt 0 8
+vt 12 0
+vt 12 8
+
+g Lava_Trap_741_32
+usemtl Lava_Trap_741_32
+usemap Lava_Trap_741_32
+f 1/1/1 3/3/3 2/2/2
+f 2/2/2 3/3/3 4/4/4

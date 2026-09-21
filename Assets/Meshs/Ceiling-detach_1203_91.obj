@@ -1,0 +1,22 @@
+#Ceiling-detach_1203_91.obj
+
+v 32 -3 23
+v 32 -3 17
+v 27 -3 23
+v 27 -3 17
+
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+
+vt 5 6
+vt 5 0
+vt 0 6
+vt 0 0
+
+g Ceiling-detach_1203_91
+usemtl Ceiling-detach_1203_91
+usemap Ceiling-detach_1203_91
+f 1/1/1 3/3/3 2/2/2
+f 2/2/2 3/3/3 4/4/4

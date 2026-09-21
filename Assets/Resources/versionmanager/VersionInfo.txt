@@ -1,0 +1,6 @@
+Block Strike Revival
+com.revival.blockstrikerevival
+1.8.1
+201
+True
+False

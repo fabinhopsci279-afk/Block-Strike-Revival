@@ -1,0 +1,134 @@
+Key,English,Russia,French,Spanish,Portuguese,Korean,Japanese
+Play Game,Play Game,Играть,Jouer,Juego,Jogar,게임 시작,ゲーム
+More,More,Еще,Plus,Más,Mais,더 보기,以上
+Exit,Exit,Выход,Sortie,Salida,Saída,나가기,口
+Back,Back,Назад,De retour,De vuelta,De volta,뒤로,裏
+Europe,Europe,Европа,Europe,Europa,Europa,유럽,欧州
+USA,USA,США,États-unis,Estados Unidos,EUA,미국,米国
+Asia,Asia,Азия,Asie,Asia,Ásia,아시아,アジア
+Japan,Japan,Япония,Japon,Japón,Japão,일본,日本
+Select Region,Select Region,Выбрать регион,Sélectionnez Région,Seleccione región,Selecione Região,나라 선택,選択地域
+Servers,Servers,Сервера,Serveur,Servidores,Servidores,서버,サーバー
+Player,Player,Игрок,Joueur,Jugador,Player,플레이어,プレイヤー
+Shop,Shop,Магазин,Boutique,Tienda,Loja,상점,店
+Next,Next,Далее,Prochaine,Siguiente,Próximo,다음,次へ
+Create Server,Create Server,Создать сервер,Créer Serveur,Crear Servidor,Criar Servidor,서버 만들기,作成サーバ
+Refresh,Refresh,Обнов.,Actualiser,Actualización,Atualização,새로고침,リフレッシュ
+Mode,Mode,Мод,Mode,Modo de,Modo de,모드,モード
+Server Name,Server Name,Имя сервера,Nom Serveur,Nombre Servidor,Nome Servidor,서버이름,サーバー名
+Max Players,Max Players,Макс. игроков,Max. Joueurs,Máximo Jugadores,Máximo Jogadores,최대 인원,最大選手
+Password,Password,Пароль,Mot de passe,Contraseña,Palavra-passe,비밀번호,パスワード
+Players,Players,Игроки,Joueurs,Jugadores,Jogadores,플레이어들,選手
+Ping,Ping,Пинг,Ping,Ping,Ping,핑,Ping
+New Level,New Level,Новый уровень,Nouveau Niveau,Nuevo Nivel,Novo Nível,레벨 업,新しいレベル
+Blue Team,Blue Team,Синяя команда,Blue Team,Blue Team,Blue Team,블루팀,ブルーチーム
+Red Team,Red Team,Красная команда,Red Team,Red Team,Red Team,레드팀,赤いチーム
+Connecting,Connecting,Подключение,Connexion,La conexión,Conexão,연결,接続
+TeamDeathmatch,Team Deathmatch,Командный бой,Team Deathmatch,Team Deathmatch,Team Deathmatch,팀 데스매치,チームデスマッチ
+KnifeMode,Knife Mode,Резня,Couteau Mode,Cuchillo Modo,Faca Modo,칼 모드,ナイフモード
+TeamDeathmatchInfo,"2 teams, 3 weapons, what else is needed for happiness???","2 команды, 3 оружия, что еще нужно для счаcтья???","2 équipes, 3 armes, quoi d'autre est nécessaire pour le bonheur???","2 equipos de 3 armas, ¿qué más se necesita para la felicidad???","2 equipas, 3 armas, o que mais é necessário para a felicidade???","2 팀과,3개의 무기,그밖에 필요한게 있습니까?",2チームが、3つの武器で、僕は幸せ???
+KnifeModeInfo,Only melee only hardcore,"Только ближний бой, только hardcore","Seulement en mêlée, uniquement hardcore","Sólo cuchillo, sólo hardcore","Somente faca, apenas hardcore",근접무기만 되며 어렵습니다,みんみハードコア
+Selected,Selected,Выбран,Sélectionné,Seleccionado,Selecionado,선택됨,選択
+Select,Select,Выбрать,Sélectionnez,Seleccione,Selecione,선택,選択
+Damage,Damage,Урон,Dommage,Daños,Danos,데미지,被害
+FireRate,Fire Rate,Скорост.,La Cadence De Tir,Tasa Fuego,Taxa De Incêndio,연사속도,火率
+Accuracy,Accuracy,Точность,Précision,Precisión,Rigor,정확도,精度
+Ammo,Ammo,Патроны,Munitions,Munición,Munição,총알,胸を張って投稿を続
+MaxAmmo,Max Ammo,Макс. патроны,Max. Munitions,Max. Munición,Max. Munição,최대 총알,最大胸を張って投稿を続
+Mobility,Mobility,Мобильность,Mobilité,La movilidad,Mobilidade,기동성,移動
+Password is incorrect,Password is incorrect,Пароль неверный,Mot de passe erroné,La contraseña incorrecta,Palavra-passe incorrecta,비밀번호가 틀립니다,パスワードが間違っ
+ChangeName,Change Name,Изменить имя,Modifier nom,Cambio nom,Alteração nome,이름 변경,名称変更
+Name,Name,Имя,Nom,Nom,Nome,이름,名称
+Level,Level,Уровень,Niveau,Nivel,Nível,레벨,レベル
+Deaths,Deaths,Смертей,Décès,Muertes,Mortes,사망,死亡数
+Kills,Kills,Убийств,Tue,Mata,Mata,를 죽임,殺し
+Stats,Stats,Статистика,Stats,Estadísticas,Estatísticas,통계,Stats
+Friends,Friends,Друзья,Amis,Amigos,Amigos,친구,友達
+Resume,Resume,Продолжить,Résumé,Continuar,Continuar,정지,履歴書
+Options,Options,Опции,Options,Opciones,Opções,설정,オプション
+Others,Others,Другое,autres,Otros,Outros,기타,その他
+Creating Server,Creating Server,Создание сервера,Création serveur,Creación Servidor,Criando Servidor,서버 만드는중,作成サーバ
+Loading,Loading,Загрузка,Chargement,Espere,Carregamento,접속중...,荷重
+Blue Win,Blue Win,Синие победили,Blue Gagner,Blue Gana,Azul Vitória,블루팀 승리,青勝
+Red Win,Red Win,Красные победили,Red Gagner,Red Gana,Vermelho Vitória,레드팀 승리,赤勝
+Sensitivity,Sensitivity,Чувствит.,Sensibilité,Sensibilidad,Sensibilidade,감도,感度
+Console,Console,Консоль,Console,Consola,Console,콘솔,コンソール
+Sound,Sound,Звук,Son,Sonido,De som,소리,音
+Promocode,Promocode,Промокод,Code promo,Promocode,Promocode,코드,Promocode
+Unknown Code,Unknown Code,Неизвестный код,Code Inconnu,Código Desconocido,Desconhecido Código,코드가 잘못됬습니다,不明コード
+Code Already Used,Code Already Used,Код уже использован,Code déjà utilisé,Código Ya Usado,Código Já Utilizado,코드는 이미 사용됬습니다,コードが既に使用
+Please wait,Please wait,Пожалуйста подождите,Veuillez patienter,Por favor espere,Aguade,잠시만 기다려 주세요,お待ちください
+Select the region in which you live to your ping was minimal,Select the region in which you live to your ping was minimal,Выберите регион в котором вы проживаете чтобы ваш пинг был минимальным,Sélectionnez la région dans laquelle vous résidez pour votre ping a été minime,Seleccione región en la que vive para ping fue mínima,Selecione a região onde você mora para o seu ping era mínima,당신이 살고있는 지역을 선택하세요,選択地域にお住まいのおpingせていただくこととしまし
+HeadshotKills,Headshots,Убийств в голову,Headshots,Disparos en la cabeza,Tiros na cabeça,헤드샷,Headshots
+Main Weapon,Main Weapon,Главное оружие,Arme principale,Arma principal,Arma principal,주 무기,メイン武器
+Secondary weapon,Secondary weapon,Вторичное оружие,Arme secondaire,Arma secundaria,Arma secundária,보조 무기,副武器
+Melee Weapon,Melee Weapon,Оружие ближнего боя,Arme de mêlée,Arma melee,Arma Corpo A Corpo,근접 무기,近接武器
+Player Skin,Player Skin,Скин игрока,Joueur apparence,Aspecto jugador,Aparência do jogador,플레이어 스킨,プレイヤーの皮膚
+AWPMode,AWP Mode,AWP Режим,Mode AWP,AWP Modo,AWP Modo,AWP 모드,AWPモード
+AWPModeInfo,"Don't run away from a sniper, die tired","Не убегай от снайпера, умрешь усталым","Ne fuyez pas un tireur d'élite, mourir de fatigue","No huyas de un francotirador, morir de cansancio","Não fujo de uma sniper, morrer cansado",스나이퍼로 부터 도망치지마! 또 죽을꺼야,逃げないからスナイパー、金型の疲れを
+More Apps,More Apps,Другие прил.,Apps,Más Apps,Mais Aplicações,많은 앱,よりアプリ
+Case,Case,Кейс,Cas,Caso,Caso,케이스,ケース
+Earn coins,Earn coins,Заработать монет,Gagner pièces,Ganar monedas,Ganhe moedas,돈 적립,コインを獲得します。
+Add Friend,Add Friend,Добав. друга,Ajouter ami,Agregar amigo,Adicionar amigo,친구 추가,友だちを追加します。
+Offline,Offline,Оффлайн,Offline,Offline,Offline,오프라인,オフライン
+Server,Server,Сервер,Serveur,Servidor,Servidor,서버,サーバー
+Join,Join,Подкл.,Connecter,Conectar,Conectar,접속,接続
+Delete,Delete,Удалить,Supprimer,Eliminar,Excluir,삭제,削除
+Do you want to remove,Do you want to remove,Вы хотите удалить,Voulez-vous supprimer,¿Que desea eliminar,Você deseja excluir,삭제하시겠습니까?,削除しますか。
+Yes,Yes,Да,Oui,Sí,Sim,예,[はい]
+No,No,Нет,Non,No,Não,아니요,いいえ
+Player already in friends,Player already in friends,Игрок уже в друзьях,Le lecteur est déjà en amis,El jugador ya está en los amigos,O jogador já está em amigos,이 플레이어는 이미 친구입니다,プレーヤーは既に友人です。
+Online,Online,Онлайн,Online,Online,Online,온라인,オンライン
+Map,Map,Карта,Carte,Mapa,Mapa,맵,地図
+Close,Close,Закрыть,Fermer,Cerrar,Fechar,닫기,閉じる
+Spectators,Spectators,Наблюдатели,Observateurs,Observadores,Observadores,관전,オブザーバー
+Legendary quality,Legendary quality,Легендарное качество,Qualité légendaire,Legendaria calidad,Qualidade lendária,전설적인 스킨,전설적인 품질
+Professional quality,Professional quality,Профессиональное качество,Qualité professionnelle,Calidad profesional,Qualidade profissional,전문적인 스킨,プロの品質
+Basic quality,Basic quality,Базовое качество,Qualité de base,Básica de calidad,Básicos de qualidade,기본 스킨,基本的な品質
+Normal quality,Normal quality,Обычное качество,Qualité normale,Calidad normal,Qualidade normal,일반 스킨,標準品質
+Used сases,Used сases,Исполь. кейсов,Сases occasion,Сases usados,Сases usado,사용된 케이스,使用 сases
+Total skins,Total skins,Всего скинов,Peaux de total,Total pieles,Peles totais,스킨갯수,全スキン
+Connected,Connected,Подключился,Relié,Conectado,Conectado,접속,接続されています。
+Disconnect,Disconnect,Отключился,Débranchez,Desconecte,Desconectar-se,나감,切断
+CaseInfo,"Open the case and get money, gold and skins from normal to legendary quality.","Открывайте кейсы и получайте деньги, золото и скины от обычного до легендарного качества.","Ouvrez le boîtier et obtenir l'argent, l'or et peaux de normal à la qualité légendaire.","Abrir la caja y obtener dinero, oro y pieles de normales a calidad legendaria.","Abra a caixa e pegar o dinheiro, ouro e peles de normal a qualidade lendária.","케이스를 여세요 그러면 돈,골드,그리고 스킨이 나올겁니다",ケースを開き、通常の伝説的な品質からお金、ゴールド、スキンを取得します。
+Money,Money,Денег,Argent,Dinero,Dinheiro,돈,お金
+Gold,Gold,Золота,Or,Oro,Ouro,골드,ゴールド
+Watch the video and open the case,Watch the video and open the case,Посмотреть видео и открыть кейс,ouvrir le boîtier,Mira el video y abrir la caja,Assista ao vídeo e abra a caixa,비디오를 보고 케이스를 여세요,ビデオを見るし、ケースを開けてください
+Сase will be available through,Сase will be available through,Кейс будет доступен через,au,Сase estará disponible a través de,Сase estará disponível através de,케이스를 통해 사용할 수 있습니다,Сase から入手可能でしょう
+of playing time,of playing time,игрового времени,du temps de jeu,de tiempo de reproducción,do tempo de jogo,의 남은시간,再生時間の
+Prev,Prev,Пред.,Préc.,Anter.,Anter.,이전,以前
+Not enough money,Not enough money,Недостаточно денег,argent,No hay suficiente dinero,Dinheiro não é suficiente,돈이 충분하지 않습니다,お金が足りない
+The new case is available,The new case is available,Новый кейс уже доступен,Le nouveau cas est disponible,El nuevo está disponible,O novo caso está disponível,새로운 케이스를 열 수 있습니다,新しいケースが可能
+Already available,Already available,Уже имеется,Déjà disponible,Ya está disponible,Já está disponível,이미 가지고 있는 스킨,すでに利用可能です
+New Weapon,New Weapon,Новое оружие,Nouvelle arme,Nueva arma,Nova arma,새로운 무기,新しい武器
+New Skin,New Skin,Новый скин,Nouvelle peau,Nueva piel,Nova pele,새로운 스킨,新しいスキン
+Default,Default,По умолч.,Par défaut,Por defecto,Padrão,기본,デフォルト
+Pause,Pause,Пауза,Pause,Pausa,Pausa,정지,一時停止
+The server is full,The server is full,Сервер переполнен,Le serveur est plein,El servidor está lleno,O servidor está cheio,서버가 꽉 찼습니다,サーバーがいっぱい
+ChangeNameInfo,Do you really want to keep this name? In future name cannot be changed.,Вы действительно хотите сохранить это имя? В дальнейшем его нельзя будет изменить.,Vous voulez vous vraiment garder ce nom ? Au nom de la future ne peut pas être modifié.,¿Desea mantener este nombre? En el nombre de futuro no se puede cambiar.,Você realmente quer manter esse nome? Em nome do futuro não pode ser alterado.,이 이름으로 하시겠습니까? 나중에 이름으로 변경할 수 없습니다.,この名前を保つためにもよろしいですか。将来の名前を変更できません。
+ServerAdminSpeedHack,The server administrator uses cheats,Администратор сервера использует читы,administrateur du serveur utilise des cheats,El administrador del servidor utiliza trucos,O administrador do servidor usa cheats,치트를 감지하였습니다,サーバー管理者は、チートを使用してください。
+Load data successfully,Load data successfully,Загрузка данных прошло успешно,Charger données avec succès,Cargar datos éxito,Carregar dados com êxito,데이터 불러오기 성공,正常にデータを読み込む
+Loading data failed,Loading data failed,Загрузка данных не удалось,Échec du chargement des données,Error al cargar datos,Falha ao carregar dados,데이터 불러오기 실패,データの読み込みに失敗しました
+Save data successfully,Save data successfully,Сохранение данных прошло успешно,Enregistrer des données avec succès,Guardar datos con éxito,Salvar os dados com êxito,성공적으로 데이터를 저장하였습니다,正常にデータを保存します。
+Save data failed,Save data failed,Сохранить данные не удалось,Enregistrer des données a échoué,Guardar los datos de error,Salvar dados falhados,데이터 저장을 실패했습니다,データ保存に失敗しました
+Cloud,Cloud,Облако,Nuage,Nube,Nuvem,클라우드,クラウド
+Save Data,Save Data,Сохр. данные,Enregistrer données,Guardar datos,Salvar dados,저장,データを保存します。
+Load Data,Load Data,Загр. данные,Charger données,Cargar datos,Carregar dados,불러오기,データの読み込み
+GunGame,Gun Game,Гонка вооружений,Gun Game,Gun Game,Gun Game,총 게임,銃のゲーム
+GunGameInfo,A couple of corpses = New weapon,Пару трупов = Новое оружие,Un couple de cadavres = New arme,Un par de cadáveres = Nueva arma,Um par de cadáveres = Nova arma,두명을 죽임 = 새로운 무기,カップル死体 = 新しい武器
+Watch the video,Watch the video,Посмотреть видео,Voir la vidéo,Ver el video,Assista ao vídeo,비디오 시청하기,ビデオを見る
+More money,More money,Еще денег,argent,Más dinero,Mais dinheiro,더 많은 돈,多くのお金
+More gold,More gold,Еще золото,or,Más oro,Mais ouro,더 많은 골드,多くの金
+Video not available,Video not available,Видео недоступно,Vidéo non disponible,Vídeo no disponible,Vídeo não disponível,비디오를 볼 수 없습니다,ビデオを利用できません。
+Developer connected,Developer has connected to server,Разраб подключился к серверу,est connecté au serveur,Desarrollador se ha conectado al servidor,Desenvolvedor tem conectado ao servidor,개발자가 서버에 접속했습니다,開発者がサーバーに接続されています。
+ShareText,m play in Block Strike Revival. I advise all to play.,Играю в Block Strike Revival. Cоветую всем сыграть.,Je suis jouer dans Block Strike Revival. Je conseille à tous de jouer.,Estoy en el juego Block Strike Revival. Aconsejo a todos a jugar.,Eu jogar no Block Strike Revival. Aconselho todos a jogar.,나는 블록스트라이크를 한다. 다같이 이게임을 하는걸 추천한다,私はレBlock Strike Revivalます。 アドバイスをしていて遊びます。
+Thanks,Thanks,Спасибо,Merci,Gracias,Obrigado,감사합니다,おかげで
+Authors skins,Authors skins,Авторы скинов,auteurs,Pieles de autores,Peles de autores,작가 스킨,著者のスキン
+Developers,Developers,Разработчики,Développeurs,Desarrolladores,Desenvolvedores,개발자,開発者
+Autobalance: You moved to another team,Autobalance: You moved to another team,Автобаланс: Вы перешли в другую команду,Balance automatique: vous avez déplacé à une autre équipe,Auto balance: movido a otro equipo,Auto-equilíbrio: você mudou-se para outra equipe,자동벨런스 : 당신은 다른팀으로 변경됬습니다,オート バランス: 別のチームに移動しました。
+ShowDamage,Show Damage,Показ. урон,Présentent des dommages,Muestran daños,Mostrar danos,보기 손상,ダメージを表示します。
+NewController,New Controller,Новое управ.,Nouveau contrôleur,Nuevo controlador,Novo controlador,새로운 컨트롤러,新しいコント ローラー
+Double-click the button increases,Double-click the button increases,Двойной клик увеличивает кнопки,Double-cliquez sur la bouton augmentation,Haga doble clic en el botón aumenta,Clique duas vezes o botão aumenta,단추 증가 두 번 클릭,ボタンの増加をダブルクリックします
+Customize buttons,Customize buttons,Настройка кнопок,Personnaliser les boutons,Personalizar botones,Personalizar botões,단추 사용자 지정,ボタンをカスタマイズします。
+Skin,Skin,Скин,Peau,Piel,Pele,피부,肌
+OldController,Old Controller,Старое управ.,,,,,

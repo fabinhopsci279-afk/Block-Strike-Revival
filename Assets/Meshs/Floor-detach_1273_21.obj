@@ -1,0 +1,36 @@
+#Floor-detach_1273_21.obj
+
+v 23 -2 11
+v 18 -2 6
+v 23 -2 7
+v 18 -2 11
+v 23 -2 20
+v 18 -2 11
+v 23 -2 11
+v 18 -2 20
+
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+
+vt 0 5
+vt 5 0
+vt 0 1
+vt 5 5
+vt 0 9
+vt 5 0
+vt 0 0
+vt 5 9
+
+g Floor-detach_1273_21
+usemtl Floor-detach_1273_21
+usemap Floor-detach_1273_21
+f 1/1/1 3/3/3 2/2/2
+f 1/1/1 2/2/2 4/4/4
+f 5/5/5 7/7/7 6/6/6
+f 5/5/5 6/6/6 8/8/8

@@ -1,0 +1,36 @@
+#Wall-detach_712_5.obj
+
+v 35 2 -3
+v 35 3 20
+v 35 2 20
+v 35 3 -3
+v 19 2 -3
+v 35 3 -3
+v 35 2 -3
+v 19 3 -3
+
+vn -1 0 0
+vn -1 0 0
+vn -1 0 0
+vn -1 0 0
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+
+vt 0 0
+vt 23 1
+vt 23 0
+vt 0 1
+vt 0 0
+vt 16 1
+vt 16 0
+vt 0 1
+
+g Wall-detach_712_5
+usemtl Wall-detach_712_5
+usemap Wall-detach_712_5
+f 1/1/1 3/3/3 2/2/2
+f 1/1/1 2/2/2 4/4/4
+f 5/5/5 7/7/7 6/6/6
+f 5/5/5 6/6/6 8/8/8

@@ -1,0 +1,22 @@
+#Wall-detach_1288_77.obj
+
+v 37 1 -27
+v 38 1 -15
+v 38 1 -27
+v 37 1 -15
+
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+
+vt 0 0
+vt 1 12
+vt 1 0
+vt 0 12
+
+g Wall-detach_1288_77
+usemtl Wall-detach_1288_77
+usemap Wall-detach_1288_77
+f 1/1/1 3/3/3 2/2/2
+f 1/1/1 2/2/2 4/4/4

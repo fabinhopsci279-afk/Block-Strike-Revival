@@ -1,0 +1,32 @@
+#Wall-detach_849_45.obj
+
+v -10 -5 3
+v -10 -2 10
+v -10 -2 3
+v -10 -5 10
+v -16 -2 3
+v -10 -5 3
+v -10 -2 3
+
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+
+vt 7 0
+vt 0 3
+vt 7 3
+vt 0 0
+vt 6 3
+vt 0 0
+vt 0 3
+
+g Wall-detach_849_45
+usemtl Wall-detach_849_45
+usemap Wall-detach_849_45
+f 1/1/1 3/3/3 2/2/2
+f 1/1/1 2/2/2 4/4/4
+f 5/5/5 7/7/7 6/6/6

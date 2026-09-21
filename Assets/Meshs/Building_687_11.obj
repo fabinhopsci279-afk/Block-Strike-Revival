@@ -1,0 +1,22 @@
+#Building_687_11.obj
+
+v 2 6 2
+v -1 6 2
+v 2 6 -1
+v -1 6 -1
+
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+
+vt 0 3
+vt 3 3
+vt 0 0
+vt 3 0
+
+g Building_687_11
+usemtl Building_687_11
+usemap Building_687_11
+f 1/1/1 3/3/3 2/2/2
+f 2/2/2 3/3/3 4/4/4

@@ -1,0 +1,32 @@
+#Wall-detach_684_55.obj
+
+v 0 8 9
+v 0 8 1
+v 0 4 1
+v 0 4 1
+v 0 -6 1
+v 0 8 9
+v 0 -6 9
+
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+
+vt 0 4
+vt 8 4
+vt 8 0
+vt 8 10
+vt 8 0
+vt 0 14
+vt 0 0
+
+g Wall-detach_684_55
+usemtl Wall-detach_684_55
+usemap Wall-detach_684_55
+f 1/1/1 3/3/3 2/2/2
+f 4/4/4 6/6/6 5/5/5
+f 5/5/5 6/6/6 7/7/7

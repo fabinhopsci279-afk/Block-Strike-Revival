@@ -1,0 +1,22 @@
+#Static_778_14.obj
+
+v 9 1 1
+v -1 1 1
+v 9 1 -1
+v -1 1 -1
+
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+
+vt 0 2
+vt 10 2
+vt 0 0
+vt 10 0
+
+g Static_778_14
+usemtl Static_778_14
+usemap Static_778_14
+f 1/1/1 3/3/3 2/2/2
+f 2/2/2 3/3/3 4/4/4
