@@ -132,3 +132,4 @@ Double-click the button increases,Double-click the button increases,Двойно
 Customize buttons,Customize buttons,Настройка кнопок,Personnaliser les boutons,Personalizar botones,Personalizar botões,단추 사용자 지정,ボタンをカスタマイズします。
 Skin,Skin,Скин,Peau,Piel,Pele,피부,肌
 OldController,Old Controller,Старое управ.,,,,,
+Brazil,Brazil,Бразилия,Brésil,Brasil,Brasil,브라질,ブラジル

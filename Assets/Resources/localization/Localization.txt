@@ -173,3 +173,4 @@ Full Pack,Full Pack,Полный пак,Le Pack Complet,Pack Completo,Pacote Com
 Chat,Chat,Чат,Chat,Chat,Bate-papo,Chat,チャット
 Language,Language,Язык,Langue,Idioma,Idioma,언어,言語
 Found old save data to load?,"Found saved data, load?","Найдены сохраненые данные, загрузить?","Trouvé des données enregistrées, la charge?","Encuentra guardado de datos, carga?","Encontrados dados guardados, carregar?","을 발견했습 저장된 데이터를,부하니까?",が保存されたデータは、負荷のか？
+Brazil,Brazil,Бразилия,Brésil,Brasil,Brasil,브라질,ブラジル
