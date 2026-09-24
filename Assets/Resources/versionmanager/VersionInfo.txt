@@ -1,6 +1,6 @@
 Block Strike Revival
 com.revival.blockstrikerevival
-1.0.3
-203
+1.8.3
+204
 True
 False
