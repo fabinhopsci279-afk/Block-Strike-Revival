@@ -31,7 +31,7 @@ public class VoiceManager : MonoBehaviour
 		{
 			return;
 		}
-		GameObject voice = Object.Instantiate(chat);
+		GameObject voice = Object.Instantiate(chat) as GameObject;
 		voice.name = "Voice";
 		voice.transform.SetParent(chat.transform.parent, worldPositionStays: false);
 		voice.transform.localPosition = chat.transform.localPosition + new Vector3(0f, -60f, 0f);
