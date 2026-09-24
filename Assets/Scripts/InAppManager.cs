@@ -41,7 +41,7 @@ public class InAppManager : MonoBehaviour
 
 	private void UpdateQueryInventory()
 	{
-		string[] array = new string[12]
+		string[] array = new string[13]
 		{
 			"com.revival.blockstrikerevival.m5000",
 			"com.revival.blockstrikerevival.m10000",
@@ -54,7 +54,8 @@ public class InAppManager : MonoBehaviour
 			"com.revival.blockstrikerevival.ads",
 			"com.revival.blockstrikerevival.allweapons",
 			"com.revival.blockstrikerevival.allskins",
-			"com.revival.blockstrikerevival.fullpack"
+			"com.revival.blockstrikerevival.fullpack",
+			"com.revival.blockstrikerevival.prime"
 		};
 	}
 

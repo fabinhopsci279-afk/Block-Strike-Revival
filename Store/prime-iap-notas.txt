@@ -1,0 +1,21 @@
+# PRIME R$ 9,90/mês — checklist Play Console
+
+Produto: assinatura mensal
+ID: com.revival.blockstrikerevival.prime
+Nome: PRIME
+Preço base: R$ 9,90 (Brasil)
+
+## Criar (play.google.com/console → app → Monetizar → Assinaturas)
+1. Nova assinatura → ID acima, nome PRIME
+2. Plano base mensal, renovação automática
+3. Preço Brasil: R$ 9,90
+4. Demais países: usa "definir preços por paridade" (converte sozinho p/ USD/RUB/EUR)
+5. Ativa em todos os países (Rússia, EUA, Europa, Brasil...)
+
+## No jogo (falta implementar — precisa teste em aparelho)
+- Unity IAP p/ processar a compra e liberar o PRIME
+- Photon Voice p/ chat de voz (precisa AppId Voice no dashboard Photon)
+- Botão com ícone Mic.png já está em Assets/Images/
+
+## Permissão Android (já incluir no manifest na hora)
+- RECORD_AUDIO (microfone)

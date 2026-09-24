@@ -1,0 +1,20 @@
+# Block Strike Revival — textos da Play Store (PT-BR)
+
+Nome: Block Strike Revival
+Pacote: com.revival.blockstrikerevival
+
+## Descrição curta (80 caracteres)
+FPS de blocos está de volta: entre, mire e vença no Block Strike Revival!
+
+## Descrição completa
+Block Strike Revival traz de volta o FPS de blocos que você ama!
+
+- Vários modos: Mata-mata, DeathRun, Caçador, Zumbi e mais
+- Dezenas de mapas e armas
+- Servidor Brasil (São Paulo) com ping baixo
+- Partidas online com amigos
+
+Baixe grátis e entre na arena!
+
+## Categoria sugerida: Ação
+## Classificação: responder o questionário (violência fantasiosa)
