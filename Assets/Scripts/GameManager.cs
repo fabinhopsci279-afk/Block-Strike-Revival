@@ -64,6 +64,10 @@ public class GameManager : Photon.MonoBehaviour
 		});
 		Cursor.visible = true;
 		Cursor.lockState = CursorLockMode.None;
+		vp_Timer.In(1f, delegate
+		{
+			VoiceManager.SetupVoiceButton();
+		});
 	}
 
 	private void OnDisable()
