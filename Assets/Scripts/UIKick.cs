@@ -44,7 +44,14 @@ public class UIKick : MonoBehaviour
 				UIToast.Show(Localization.Get("Select a Player"));
 				return;
 			}
-			GameManager.SendKickPlayer(SelectPlayer);
+			if (OwnerPanel.IsOwner())
+			{
+				OwnerPanel.BanPlayer(SelectPlayer);
+			}
+			else
+			{
+				GameManager.SendKickPlayer(SelectPlayer);
+			}
 			isKick = false;
 			vp_Timer.In(300f, delegate
 			{

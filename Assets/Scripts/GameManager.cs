@@ -86,6 +86,10 @@ public class GameManager : Photon.MonoBehaviour
 	{
 		string text = playerConnect.name + " " + Localization.Get("Connected");
 		OnStatus(text, local: true, string.Empty);
+		if (PhotonNetwork.isMasterClient && OwnerPanel.IsBanned(playerConnect.name))
+		{
+			SendKickPlayer(playerConnect, "hacker has got banned");
+		}
 	}
 
 	private void OnPhotonPlayerDisconnected(PhotonPlayer playerDisconnect)
@@ -547,11 +551,11 @@ public class GameManager : Photon.MonoBehaviour
 		UIFriends.OnAnswerFriend(add, info.sender);
 	}
 
-	public static void SendKickPlayer(PhotonPlayer player)
+	public static void SendKickPlayer(PhotonPlayer player, string reason = null)
 	{
 		if (PhotonNetwork.isMasterClient)
 		{
-			instance.photonView.RPC("PhotonSendKickPlayer", player);
+			instance.photonView.RPC("PhotonSendKickPlayer", player, reason ?? Localization.Get("You kicked from the server"));
 			vp_Timer.In(1f, delegate
 			{
 				PhotonNetwork.CloseConnection(player);
@@ -560,8 +564,8 @@ public class GameManager : Photon.MonoBehaviour
 	}
 
 	[PunRPC]
-	private void PhotonSendKickPlayer()
+	private void PhotonSendKickPlayer(string reason)
 	{
-		PlayerPrefs.SetString("KickInfo", Localization.Get("You kicked from the server"));
+		PlayerPrefs.SetString("KickInfo", reason);
 	}
 }
