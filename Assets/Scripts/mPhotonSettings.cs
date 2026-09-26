@@ -73,7 +73,7 @@ public class mPhotonSettings : PunBehaviour
 		PhotonNetwork.player.ClearProperties();
 		GameMode gameMode = mCreateServer.GetGameMode();
 		string serverName = mCreateServer.GetServerName();
-		int num = Mathf.Clamp(mCreateServer.GetMaxPlayers(), 4, 12);
+		int num = Mathf.Clamp(mCreateServer.GetMaxPlayers(), 4, 100);
 		string password = mCreateServer.GetPassword();
 		instance.SelectMap = mCreateServer.GetMap();
 		Hashtable customRoomProperties = PhotonNetwork.room.CreateRoomHashtable(instance.SelectMap, password, gameMode);
