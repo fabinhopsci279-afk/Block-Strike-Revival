@@ -782,6 +782,8 @@ PlayerSettings:
   webGLPowerPreference: 2
   scriptingDefineSymbols:
     Standalone: BEEBYTE_OBFUSCATOR_DISABLE
+    Android: BEEBYTE_OBFUSCATOR_DISABLE
+    iPhone: BEEBYTE_OBFUSCATOR_DISABLE
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:

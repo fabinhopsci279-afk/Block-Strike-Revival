@@ -20763,7 +20763,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1791686104650641435}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -342, y: 158, z: 0}
+  m_LocalPosition: {x: -316, y: 158, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -29533,7 +29533,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 699, y: 40, z: 0}
+  m_Size: {x: 646, y: 40, z: 0}
   m_Center: {x: 0, y: 20, z: 0}
 --- !u!65 &1791686105724384585
 BoxCollider:
@@ -30690,7 +30690,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 699, y: 40, z: 0}
+  m_Size: {x: 646, y: 40, z: 0}
   m_Center: {x: 0, y: -20, z: 0}
 --- !u!65 &1791686105724384674
 BoxCollider:
@@ -37188,13 +37188,13 @@ MonoBehaviour:
   updateAnchors: 1
   mColor: {r: 0, g: 0, b: 0, a: 0.7843137}
   mPivot: 4
-  mWidth: 699
+  mWidth: 646
   mHeight: 323
   mDepth: -1
   autoResizeBoxCollider: 1
   hideIfOffScreen: 0
   keepAspectRatio: 0
-  aspectRatio: 2.1640866
+  aspectRatio: 2
   mType: 1
   mFillDirection: 4
   mFillAmount: 1
@@ -43953,13 +43953,13 @@ MonoBehaviour:
   updateAnchors: 1
   mColor: {r: 1, g: 1, b: 1, a: 1}
   mPivot: 7
-  mWidth: 699
+  mWidth: 646
   mHeight: 40
   mDepth: 0
   autoResizeBoxCollider: 1
   hideIfOffScreen: 0
   keepAspectRatio: 0
-  aspectRatio: 17.475
+  aspectRatio: 16.15
   mType: 1
   mFillDirection: 4
   mFillAmount: 1
@@ -64114,13 +64114,13 @@ MonoBehaviour:
   updateAnchors: 1
   mColor: {r: 1, g: 1, b: 1, a: 1}
   mPivot: 1
-  mWidth: 699
+  mWidth: 646
   mHeight: 40
   mDepth: 0
   autoResizeBoxCollider: 1
   hideIfOffScreen: 0
   keepAspectRatio: 0
-  aspectRatio: 17.475
+  aspectRatio: 16.15
   mType: 1
   mFillDirection: 4
   mFillAmount: 1
