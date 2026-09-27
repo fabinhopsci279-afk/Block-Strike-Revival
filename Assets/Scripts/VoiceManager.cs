@@ -11,6 +11,14 @@ public class VoiceManager : MonoBehaviour
 		UIToast.Show(MicOn ? "Microfone ON" : "Microfone OFF");
 	}
 
+	private void Update()
+	{
+		if (Input.GetKeyDown(KeyCode.V))
+		{
+			ToggleMic();
+		}
+	}
+
 	public static void SetupVoiceButton()
 	{
 		if (GameObject.Find("Voice") != null)
